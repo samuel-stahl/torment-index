@@ -1,6 +1,7 @@
 # dependencies
 /venv
 
-# input and output folders
+# input and output folders and files
 /raw_data
 /results
+config.ini

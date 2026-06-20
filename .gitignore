@@ -1,0 +1,6 @@
+# dependencies
+/venv
+
+# input and output folders
+/raw_data
+/results
